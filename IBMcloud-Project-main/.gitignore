@@ -1,0 +1,11 @@
+server.key
+.sfdx
+.idea
+.vscode
+mdapioutput
+*.orig
+*.rej
+.project
+.pre-commit-config.yaml
+.secrets.baseline
+*.py
